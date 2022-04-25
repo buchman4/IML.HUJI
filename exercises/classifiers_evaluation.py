@@ -45,6 +45,7 @@ def run_perceptron():
         raise NotImplementedError()
 
         # Plot figure
+        function of plotly probably called scatter or plot
         raise NotImplementedError()
 
 
